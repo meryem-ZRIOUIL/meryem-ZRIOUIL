@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Meryem-Zriouil&height=180&section=header"/>
+</p>
 
 <!--
 **meryem-ZRIOUIL/meryem-ZRIOUIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
